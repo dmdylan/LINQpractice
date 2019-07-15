@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq - object and query operators", "Linq - object and query operators\Linq - object and query operators.csproj", "{8EC0BD21-4127-4BC7-AD16-29F85E4D03ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC0BD21-4127-4BC7-AD16-29F85E4D03ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC0BD21-4127-4BC7-AD16-29F85E4D03ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC0BD21-4127-4BC7-AD16-29F85E4D03ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC0BD21-4127-4BC7-AD16-29F85E4D03ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A28A7DA9-2DC8-452A-8F5A-CA152BF31EF1}
+	EndGlobalSection
+EndGlobal

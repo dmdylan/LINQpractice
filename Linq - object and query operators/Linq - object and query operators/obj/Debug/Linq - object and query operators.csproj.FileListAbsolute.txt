@@ -1,0 +1,7 @@
+C:\Users\Dylan Danowski\source\repos\Linq - object and query operators\Linq - object and query operators\bin\Debug\Linq - object and query operators.exe.config
+C:\Users\Dylan Danowski\source\repos\Linq - object and query operators\Linq - object and query operators\bin\Debug\Linq - object and query operators.exe
+C:\Users\Dylan Danowski\source\repos\Linq - object and query operators\Linq - object and query operators\bin\Debug\Linq - object and query operators.pdb
+C:\Users\Dylan Danowski\source\repos\Linq - object and query operators\Linq - object and query operators\obj\Debug\Linq - object and query operators.csprojAssemblyReference.cache
+C:\Users\Dylan Danowski\source\repos\Linq - object and query operators\Linq - object and query operators\obj\Debug\Linq - object and query operators.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Danowski\source\repos\Linq - object and query operators\Linq - object and query operators\obj\Debug\Linq - object and query operators.exe
+C:\Users\Dylan Danowski\source\repos\Linq - object and query operators\Linq - object and query operators\obj\Debug\Linq - object and query operators.pdb

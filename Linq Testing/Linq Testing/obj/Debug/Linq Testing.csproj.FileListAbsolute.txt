@@ -1,0 +1,7 @@
+C:\Users\Dylan Danowski\source\repos\Linq Testing\Linq Testing\obj\Debug\Linq Testing.csprojAssemblyReference.cache
+C:\Users\Dylan Danowski\source\repos\Linq Testing\Linq Testing\obj\Debug\Linq Testing.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Danowski\source\repos\Linq Testing\Linq Testing\bin\Debug\Linq Testing.exe.config
+C:\Users\Dylan Danowski\source\repos\Linq Testing\Linq Testing\bin\Debug\Linq Testing.exe
+C:\Users\Dylan Danowski\source\repos\Linq Testing\Linq Testing\bin\Debug\Linq Testing.pdb
+C:\Users\Dylan Danowski\source\repos\Linq Testing\Linq Testing\obj\Debug\Linq Testing.exe
+C:\Users\Dylan Danowski\source\repos\Linq Testing\Linq Testing\obj\Debug\Linq Testing.pdb

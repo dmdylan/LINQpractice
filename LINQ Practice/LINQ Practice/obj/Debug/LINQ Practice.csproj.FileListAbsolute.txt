@@ -1,0 +1,7 @@
+C:\Users\Dylan Danowski\source\repos\LINQ Practice\LINQ Practice\obj\Debug\LINQ Practice.csprojAssemblyReference.cache
+C:\Users\Dylan Danowski\source\repos\LINQ Practice\LINQ Practice\obj\Debug\LINQ Practice.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Danowski\source\repos\LINQ Practice\LINQ Practice\bin\Debug\LINQ Practice.exe.config
+C:\Users\Dylan Danowski\source\repos\LINQ Practice\LINQ Practice\bin\Debug\LINQ Practice.exe
+C:\Users\Dylan Danowski\source\repos\LINQ Practice\LINQ Practice\bin\Debug\LINQ Practice.pdb
+C:\Users\Dylan Danowski\source\repos\LINQ Practice\LINQ Practice\obj\Debug\LINQ Practice.exe
+C:\Users\Dylan Danowski\source\repos\LINQ Practice\LINQ Practice\obj\Debug\LINQ Practice.pdb

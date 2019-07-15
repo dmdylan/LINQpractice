@@ -1,0 +1,7 @@
+C:\Users\Dylan Danowski\source\repos\Linq and XML\Linq and XML\bin\Debug\Linq and XML.exe.config
+C:\Users\Dylan Danowski\source\repos\Linq and XML\Linq and XML\bin\Debug\Linq and XML.exe
+C:\Users\Dylan Danowski\source\repos\Linq and XML\Linq and XML\bin\Debug\Linq and XML.pdb
+C:\Users\Dylan Danowski\source\repos\Linq and XML\Linq and XML\obj\Debug\Linq and XML.csprojAssemblyReference.cache
+C:\Users\Dylan Danowski\source\repos\Linq and XML\Linq and XML\obj\Debug\Linq and XML.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Danowski\source\repos\Linq and XML\Linq and XML\obj\Debug\Linq and XML.exe
+C:\Users\Dylan Danowski\source\repos\Linq and XML\Linq and XML\obj\Debug\Linq and XML.pdb
